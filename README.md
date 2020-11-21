@@ -1,5 +1,3 @@
-![Hey, I'm IhsFace!](header.png)
-
 ## About
 *I just like to code different things.*
 
