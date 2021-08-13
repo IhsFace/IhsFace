@@ -3,7 +3,8 @@
 ## About
 I code websites and have a YouTube channel.
 
-**Website** » [ihsaan.github.io](https://ihsaan.github.io)
+**Website** » [ihsface.github.io](https://ihsface.github.io)
+**Website** » [youtube.com/Pizzzas](https://www.youtube.com/Pizzzas)
 
 **Blog Posts**
 * [dev.to](https://dev.to/ihsface/best-tools-for-web-development-5aoc)
