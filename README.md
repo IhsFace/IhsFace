@@ -1,7 +1,7 @@
 ![Hey, I'm IhsFace](header.png)
 
 ## About
-I code websites and have a YouTube channel.
+pygame and discord.py bot dev
 
 **Website** » [ihsaan.glitch.me](https://ihsaan.glitch.me)
 
