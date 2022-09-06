@@ -3,6 +3,6 @@
 ## About
 pygame and discord.py bot dev
 
-**Website** » [ihsaan.glitch.me](https://ihsaan.glitch.me)
+**Website** » [ihsaan.github.io](https://ihsface.github.io/)
 
 **YouTube Channel** » [youtube.com/c/IhsFace](https://youtube.com/c/IhsFace)
