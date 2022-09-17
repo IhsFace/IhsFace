@@ -1,7 +1,7 @@
 ![Hey, I'm IhsFace](header.png)
 
 ## About
-pygame and discord.py bot dev
+python and web dev
 
 **Website** » [ihsaan.github.io](https://ihsface.github.io/)
 
