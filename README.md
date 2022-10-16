@@ -1,8 +1,6 @@
 ![Hey, I'm IhsFace](header.png)
 
 ## About
-python and web dev
+A full stack web developer
 
-**Website** » [ihsaan.github.io](https://ihsface.github.io/)
-
-**YouTube Channel** » [youtube.com/c/IhsFace](https://youtube.com/c/IhsFace)
+**Website** » [ihsaan.au](https://ihsaan.au)
