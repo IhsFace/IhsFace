@@ -1,7 +1,7 @@
 ![Hey, I'm IhsFace](header.png)
 
 ## About
-A full stack web and game dev
+A full stack web, mobile and game dev
 
  - JavaScript
  - Python
