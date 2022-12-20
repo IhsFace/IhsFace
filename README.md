@@ -1,10 +1,11 @@
 ![Hey, I'm IhsFace](header.png)
 
 ## About
-A full stack web, mobile and game dev
+I am a full stack web, mobile and game dev
 
  - JavaScript
  - Python
+ - Java
  - C++
  - C#
  - C
