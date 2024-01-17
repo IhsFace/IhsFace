@@ -5,9 +5,9 @@
 ## About
 Full stack web, mobile and game dev
 
+ - TypeScript
  - JavaScript
  - Python
- - Java
  - C++
  - C#
  - C
