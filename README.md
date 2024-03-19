@@ -9,6 +9,11 @@ I create stunning websites using [React](https://reactjs.org), [Vite](https://vi
 [<img alt="Status" title="Discord Status" src="https://img.shields.io/badge/dynamic/json?colorA=%237289DA&colorB=%237289DA&label=status:&query=data.discord_status&url=https://api.lanyard.rest/v1/users/1054862437444235355&style=for-the-badge" />](https://discord.com/users/1054862437444235355)
 [<img alt="Activity" title="Discord Activity" src="https://img.shields.io/badge/dynamic/json?colorA=%237289DA&colorB=%237289DA&label=activity:&query=data.activities[0].state&url=https://api.lanyard.rest/v1/users/1054862437444235355&style=for-the-badge" />](https://discord.com/users/1054862437444235355)
 
+<details>
+  <summary><h3>About</h3></summary>
+    I began my programming journey in early 2021 with a keen interest in web development. Starting with website creation, I gradually ventured into more complex styling and design elements, diving into Python for game development using [Pygame](https://pygame.org) when JavaScript seemed too daunting. As I got comfortable with Python, I circled back to JavaScript, delving deeper into its intricacies and leveraging frameworks like [React](https://reactjs.org) to craft engaging and functional websites. My toolkit expanded to include [Vite](https://vitejs.dev), [Redux](https://redux.js.org), [Node.js](https://nodejs.org) and [Express.js](https://expressjs.com), allowing me to build scalable and dynamic web solutions. Currently, I'm exploring the mobile app landscape, employing [React Native](https://reactnative.dev) and [Expo](https://expo.dev) to develop intuitive and high-performance applications. During downtime, I enjoy experimenting with various Python libraries to further expand my skill set. Proficient in TypeScript, JavaScript, Python, C++, C#, C, HTML & CSS, I blend technical expertise with a passion for creating polished, innovative solutions. Driven by a relentless curiosity, I'm always seeking new challenges and opportunities to push the boundaries of what's possible in tech. Join me in crafting the next wave of digital solutions that redefine user experiences.
+</details>
+
 ### Languages and Tools
 
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/IhsFace/IhsFace/main/assets/typescript-original.svg" />
@@ -31,3 +36,6 @@ I create stunning websites using [React](https://reactjs.org), [Vite](https://vi
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/IhsFace/IhsFace/main/assets/mongodb-original.svg" />
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/IhsFace/IhsFace/main/assets/tailwindcss-plain.svg" />
 <img align="left" alt="Discord.js" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/IhsFace/IhsFace/main/assets/discordjs-original.svg" />
+
+### Stats
+[IhsFace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IhsFace&show_icons=true&theme=gruvbox)
