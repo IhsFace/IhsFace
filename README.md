@@ -37,5 +37,8 @@ I create stunning websites using [React](https://reactjs.org), [Vite](https://vi
 <img align="left" alt="Tailwind CSS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/IhsFace/IhsFace/main/assets/tailwindcss-plain.svg" />
 <img align="left" alt="Discord.js" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/IhsFace/IhsFace/main/assets/discordjs-original.svg" />
 
+<br />
+
 ### Stats
+
 ![IhsFace's GitHub Stats](https://github-readme-stats.vercel.app/api?username=IhsFace&show_icons=true&theme=gruvbox)
