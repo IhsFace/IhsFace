@@ -38,6 +38,7 @@ I create stunning websites using [React](https://reactjs.org), [Vite](https://vi
 <img align="left" alt="Discord.js" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/IhsFace/IhsFace/main/assets/discordjs-original.svg" />
 
 <br />
+<br />
 
 ### Stats
 
